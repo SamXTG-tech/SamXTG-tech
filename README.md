@@ -1,6 +1,6 @@
 - ✌️Eyo my name is Sfundo aka Samxtg
 - 😁 I'm interested in the art of programming someones idea into reality
-- 🌱 I’m currently learning React.js well on my way to a great front-end Developer
+- 🌱 I’m currently learning React.js well on my way to being a great front-end Developer
 - 💞️ I’m looking to collaborate on website projects 
 - 📫 You can reach me via email at Samxkhumalo89@gmail.com
 - ⚡ Fun fact: I'm a trampoline athlete
